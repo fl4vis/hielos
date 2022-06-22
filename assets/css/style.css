@@ -7258,3 +7258,22 @@ div#mCSB_1_container{
 .shop-details .product-discription .tabs-content .customer-comments{
   padding-left: 0px;
 }
+
+@media only screen and (max-width: 500px) {
+  #text-bola {
+    width: 9.05em;
+    height: 9.05em;
+    
+  }
+
+  #text-bola h2 {
+    font-size: 2rem;
+    margin-top: -2.5rem;
+  }
+
+  #text-bola h6 {
+    font-size: 0.8rem;
+    line-height: 11px;
+  }
+  
+}
